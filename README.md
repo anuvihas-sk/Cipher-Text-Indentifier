@@ -36,8 +36,6 @@ python main.py [options] <cipher_text>
 
 - `-i, --identify` : Identify the type of cipher.
 - `-d, --decrypt <key>` : Decrypt the cipher text with the provided key.
-- `-a, --analyze` : Analyze the frequency of letters in the cipher text.
-`
 
 ## Contributing
 
